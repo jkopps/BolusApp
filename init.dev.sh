@@ -1,2 +1,2 @@
-export FLASK_APP=bolusFlask
+export FLASK_APP=BolusFlask
 export FLASK_ENV=development
